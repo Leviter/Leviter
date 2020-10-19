@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Leviter&show_icons=true&include_all_commits=true&theme=vision-friendly-dark" alt="Leviter's GitHub statistics" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leviter&layout=&theme=vision-friendly-dark" />
+
+*NOTE: Most used languages does not indicate my skill level nor does it reflect my personal preference. It is a GitHub metric of which languages are used the most in the code that is in my public repositories on GitHub.*
