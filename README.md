@@ -14,11 +14,11 @@ Here are some ideas to get you started:
 -->
 ### Hi there 👋, my name is Marcel
 
-I am a software engineer (since 1996) and as you can see, some of the stuff I use/work with/experiment on is on [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='30'>](https://github.com/Leviter). Sometimes I write something down or discuss something on [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='30'>](https://dev.to/Leviter).
+I am a software engineer (since 1996) and as you can see, some of the stuff I use/work with/experiment on is on [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='12'>](https://github.com/Leviter). Sometimes I write something down or discuss something on [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='12'>](https://dev.to/Leviter).
 
-If you want to see more about my career, just take a look at my [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='30'>](https://www.linkedin.com/in/marcelvandenbrink/) profile.
+If you want to see more about my career, just take a look at my [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='12'>](https://www.linkedin.com/in/marcelvandenbrink/) profile.
 
-And if you are totally bored, take a look at my [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='30'>](https://twitter.com/Leviter) account. And you will see that I hardly ever update it. 😄
+And if you are totally bored, take a look at my [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='12'>](https://twitter.com/Leviter) account. And you will see that I hardly ever update it. 😄
 
 
 ## What's happening now?
