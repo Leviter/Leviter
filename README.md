@@ -20,6 +20,8 @@ If you want to see more about my career, just take a look at my [<img src='https
 
 And if you are totally bored, take a look at my [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='12'>](https://twitter.com/Leviter) account. And you will see that I hardly ever update it. 😄
 
+Because I was active and commited code to public repositories in 2020, I was awarded the Arctic Code Vault Contributer badge (<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='12' height='12'></a>). This means that some of my code is in the [GitHub Arctic Vault](https://archiveprogram.github.com/) in [Svalbard](https://en.wikipedia.org/wiki/Svalbard), which I think is pretty awesome.
+
 
 ## What's happening now?
 
@@ -38,11 +40,9 @@ Hacktoberfest is open to everyone in our global community! Four quality pull req
   </tr>
 </table>
 
+## What happened codewise?
 
-
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='30' height='30'></a> 
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Leviter&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Leviter&theme=onedark&title=Commit)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![GitHub metrics](https://metrics.lecoq.io/Leviter)  
 
