@@ -28,11 +28,14 @@ Because I was active and commited code to public repositories in 2020, I was awa
 <table>
   <tr></tr>
   <tr>
-     <th>
+     <th colspan='2'>
        <code>SPECIAL</code> Hacktoberfest
     </th>
   </tr>
   <tr>
+    <td>
+      <img src="https://hacktoberfest.digitalocean.com/assets/HF-full-logo-b05d5eb32b3f3ecc9b2240526104cf4da3187b8b61963dd9042fdc2536e4a76c.svg" width='250'/>
+    </td>
     <td>
       Hacktoberfest is a monthlong celebration of open source software run by DigitalOcean.<br/><br/>
 Hacktoberfest is open to everyone in our global community! Four quality pull requests must be submitted to public GitHub repositories. You can sign up anytime between October 1 and October 31 on https://hacktoberfest.digitalocean.com/.
