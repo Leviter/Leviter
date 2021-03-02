@@ -22,6 +22,8 @@ And if you are totally bored, take a look at my [<img src='https://cdn.jsdelivr.
 
 Because I was active and commited code to public repositories in 2020, I was awarded the Arctic Code Vault Contributer badge (<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='12' height='12'></a>). This means that some of my code is in the [GitHub Arctic Vault](https://archiveprogram.github.com/) in [Svalbard](https://en.wikipedia.org/wiki/Svalbard), which I think is pretty awesome.
 
+Another thing I did in 2020 was to participate in [Hacktoberfest 2020](https://hacktoberfest.digitalocean.com/). A nice way to contribute to open source software and connect to other developers.
+
 
 ## What happened codewise?
 
