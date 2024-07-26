@@ -18,8 +18,6 @@ I am a software engineer (since 1996) and as you can see, some of the stuff I us
 
 If you want to see more about my career, just take a look at my [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='12'>](https://www.linkedin.com/in/marcelvandenbrink/) profile.
 
-And if you are totally bored, take a look at my [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='12'>](https://twitter.com/Leviter) account. And you will see that I hardly ever update it. 😄
-
 Because I was active and commited code to public repositories in 2020, I was awarded the Arctic Code Vault Contributer badge (<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='12' height='12'></a>). This means that some of my code is in the [GitHub Arctic Vault](https://archiveprogram.github.com/) in [Svalbard](https://en.wikipedia.org/wiki/Svalbard), which I think is pretty awesome.
 
 Another thing I did in 2020 was to participate in [Hacktoberfest 2020](https://hacktoberfest.digitalocean.com/). A nice way to contribute to open source software and connect to other developers.
