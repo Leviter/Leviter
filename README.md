@@ -29,5 +29,5 @@ Another thing I did in 2020 was to participate in [Hacktoberfest 2020](https://h
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Leviter&theme=onedark&title=Commit)](https://github.com/ryo-ma/github-profile-trophy)
 
-![GitHub metrics](https://metrics.lecoq.io/Leviter)  
+![Metrics](/github-metrics.svg)
 
