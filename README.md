@@ -27,7 +27,6 @@ Another thing I did in 2020 was to participate in [Hacktoberfest 2020](https://h
 
 ## What happened codewise?
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Leviter&theme=onedark&title=Commit)](https://github.com/ryo-ma/github-profile-trophy)
-
 ![Metrics](/github-metrics.svg)
+![Languages](/metrics.plugin.languages.svg)
 
