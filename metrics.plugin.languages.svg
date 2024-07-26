@@ -21,10 +21,11 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="370.475725105581" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="370.475725105581" y="0" width="42.85958605284283" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="413.3353111584238" y="0" width="38.762812234593326" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="452.09812339301715" y="0" width="7.901876606982886" height="8" fill="#5B2063"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="368.3842158235097" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="368.3842158235097" y="0" width="42.61762358140234" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="411.001839404912" y="0" width="38.54397797341539" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="449.5458173783274" y="0" width="7.857266806260919" height="8" fill="#5B2063"/>
+                    <rect mask="url(#languages-bar)" x="457.4030841845883" y="0" width="2.596915815411668" height="8" fill="#0298c3"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -50,6 +51,12 @@
                             <path fill="#5B2063" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                         </svg>
                         Gherkin
+                    </div>
+                    <div class="field center no-wrap language">
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                            <path fill="#0298c3" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                        </svg>
+                        Perl
                     </div>
                 </div>
             </section>
